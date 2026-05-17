@@ -1,0 +1,5 @@
+cd "c:\Users\baran\OneDrive\Desktop\Odevler\Bolum2"
+npm install
+npm run dev
+
+bu kodlar ile çalıştırılyor
