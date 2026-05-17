@@ -15,10 +15,6 @@ Derleme: `npm run build` — çıktı `dist` klasöründe.
 
 Repoyu GitHub’a public olarak yükledikten sonra Netlify’da “Import from Git” ile bağlayabilirsin. Bu repoda `netlify.toml` var; build komutu `npm run build`, publish klasörü `dist`.
 
-## Teslim notları
-
-- En az bir **ekran görüntüsünü** repoya (ör. `ekran-goruntuleri/` altına) eklemeyi unutma.
-- Teslim formuna **GitHub** ve canlı site (**Netlify** vb.) linklerini yaz.
 
 ## Klasör yapısı
 
